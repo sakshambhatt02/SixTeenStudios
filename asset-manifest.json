@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SixTeenStudios/static/css/main.5e98a550.css",
+    "main.js": "/SixTeenStudios/static/js/main.e75958fa.js",
+    "static/js/453.d12a2ee8.chunk.js": "/SixTeenStudios/static/js/453.d12a2ee8.chunk.js",
+    "index.html": "/SixTeenStudios/index.html",
+    "main.5e98a550.css.map": "/SixTeenStudios/static/css/main.5e98a550.css.map",
+    "main.e75958fa.js.map": "/SixTeenStudios/static/js/main.e75958fa.js.map",
+    "453.d12a2ee8.chunk.js.map": "/SixTeenStudios/static/js/453.d12a2ee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e98a550.css",
+    "static/js/main.e75958fa.js"
+  ]
+}
